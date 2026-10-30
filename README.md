@@ -409,4 +409,7 @@ The results support the potential of event-based vision for low-latency and data
 
 ## Author
 
-Developed as a research-oriented prototype in neuromorphic event-based vision.
+A S M Sayem
+Undergraduate Student
+East West University
+
