@@ -352,64 +352,6 @@ outputs/event_tracking.gif
 | `baseline_comparison.txt` | Event-based and frame-based comparison |
 | `event_tracking.gif` | Animated event-tracking demonstration |
 
-## Research Relevance
-
-This project demonstrates practical experience in:
-
-- Neuromorphic vision
-- Bio-inspired sensing
-- Asynchronous event-driven processing
-- Time-surface representation
-- Low-latency motion tracking
-- Data-efficient computer vision
-- Real-time perception
-- Embedded AI concepts
-- Robotics perception
-- Assistive-technology sensing
-
-The project is particularly relevant to research involving:
-
-- Neuromorphic microelectronics
-- Bio-inspired computing
-- Event-based cameras
-- Low-power intelligent systems
-- Human-centered sensing
-- Rehabilitation robotics
-- Prosthetic and assistive devices
-
-## Relevance to EPFL Research Areas
-
-### Biomedical and Neuromorphic Microelectronic Systems
-
-The project connects to:
-
-- Neuromorphic sensing
-- Bio-inspired computation
-- Low-power visual processing
-- Event-driven architectures
-- Efficient intelligent systems
-
-### Rehabilitation and Assistive Robotics
-
-The pipeline could be extended for:
-
-- Hand-motion tracking
-- Rehabilitation exercise monitoring
-- Prosthetic control
-- Exoskeleton perception
-- Low-latency robot vision
-- Human-robot interaction
-
-### Integrated Neurotechnologies
-
-The asynchronous processing principle can be extended to:
-
-- Neural signal processing
-- Event-driven biomedical sensing
-- Spiking neural networks
-- Low-power neurotechnology
-- Real-time closed-loop systems
-
 ## Limitations
 
 This project is a synthetic proof-of-concept and has several limitations:
