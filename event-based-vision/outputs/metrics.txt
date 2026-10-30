@@ -1,0 +1,8 @@
+Neuromorphic Event-Based Vision Metrics
+=============================================
+tracking_mae_pixels: 4.5909
+maximum_error_pixels: 5.9470
+valid_tracking_rate_percent: 100.0000
+total_events: 5600.0000
+event_density_percent: 0.3646
+estimated_data_reduction_percent: 99.6354

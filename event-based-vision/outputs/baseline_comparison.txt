@@ -1,0 +1,7 @@
+Event-Based vs Frame-Based Comparison
+=============================================
+Event-based MAE vs frame baseline: 4.0909 pixels
+Total events processed: 5600
+Full-frame pixels processed: 1536000
+Event density: 0.3646%
+Estimated data reduction: 99.6354%
